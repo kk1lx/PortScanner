@@ -35,3 +35,8 @@ python port-scanner.py
 
 
 ## Example Output
+![image](https://github.com/user-attachments/assets/e2418d6d-3454-4d99-943a-6b09b56ef8f3)
+in text - Port 22 is open, or some other port is also open.
+
+
+
