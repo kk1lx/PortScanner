@@ -10,7 +10,7 @@ A simple multithreaded port scanner tool built with Python — perfect for begin
 
 ## Usage
 To use the script, follow these steps:
-
+ с
 First, open Terminal or PowerShell.
 
 If you haven't installed Git yet, run the command:
