@@ -6,7 +6,7 @@ A simple multithreaded port scanner tool built with Python — perfect for begin
 - 🔁 Threaded (parallel) port scanning
 - 🎨 Colorful and styled terminal output
 - ✅ Basic IP address validation
-- 💬 Easy-to-use command-line interface (CLI)
+- 💬 Easy-to-use command-line interface (CLI) 
 
 ## Usage
 To use the script, follow these steps:
